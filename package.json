@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "It's a weather app to predict the future weather of any region using openweathermap api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostlypanda/pro-weather-app.git"
+  },
+  "author": "sarthak mittal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mostlypanda/pro-weather-app/issues"
+  },
+  "homepage": "https://github.com/mostlypanda/pro-weather-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "unirest": "^0.6.0"
+  }
+}
